@@ -11,4 +11,7 @@ By Downloading all the necessary packages needed in the client and server folder
 RUN
 
 ### `npm run start` in both the directories respectively
+
 # code_test_1
+
+Click on the URL for checking the live version : https://career-ninja-49aa16.netlify.app
